@@ -1,4 +1,8 @@
 # datacamp_courses
-From courses taken at datacamp. this includes projects from 
-Associate Data Scientist with Python Track
-Associate Data Analyst with SQL teack 
+<p>
+  From courses taken at datacamp. They includes projects from 
+<ul>
+  <li>Associate Data Scientist with Python Track</li>
+<li>Associate Data Analyst with SQL track </li>
+</ul>
+</p>
